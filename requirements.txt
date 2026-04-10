@@ -1,0 +1,6 @@
+torch>=2.0
+transformers>=4.35
+datasets>=2.14
+peft>=0.7
+accelerate>=0.24
+matplotlib>=3.7
